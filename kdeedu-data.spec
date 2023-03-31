@@ -2,7 +2,7 @@
 Summary:	Data files for the KDE educational suite
 Name:		kdeedu-data
 Version:	22.12.3
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
 Url:		http://edu.kde.org
