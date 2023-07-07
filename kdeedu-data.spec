@@ -1,7 +1,7 @@
 %define stable %([ "`echo %{version} |cut -d. -f3`" -ge 80 ] && echo -n un; echo -n stable)
 Summary:	Data files for the KDE educational suite
 Name:		kdeedu-data
-Version:	23.04.2
+Version:	23.04.3
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/KDE
