@@ -1,3 +1,4 @@
+%undefine _debugsource_packages
 #define git 20240217
 %define gitbranch release/24.02
 %define gitbranchd %(echo %{gitbranch} |sed -e "s,/,-,g")
